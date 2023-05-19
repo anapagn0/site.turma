@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stely.css">
+</head>
+<body>
+    <header class="cabeçalho">
+        <ul class="cabeçalho-lista">
+            <li class="cabeçalho-lista-item">Recomendações gerais</li>
+            <li class="cabeçalho-lista-item">Curiosidades</li>
+        </ul>
+    </header>
+    <section class="músicas goticas">
+        <h2 class="titulo">Músicas na Subcultura Gótica</h2>
+        <p class="paragrafo1">Teve sua criação e popularição nos anos 70, com influência do post punk e glam rock. </p>
+        <p class="paragrafo2">Músicas góticas geralmente tem sonoridade mais soturnas, tons graves e dramáticos,as letras são melancolicas e dramáticas, birando a tristeza, existencialismo, paixões impossiveis e dias sombrios.</p>
+        <p class="paragrafo3">Dentre as bandas pioneras da subcultura estão Joy division, Bauhaus, The Cure, Siouxsie and the Banshees, entre varias outras.</p>
+        <img class="imagemmorcegos" src="morcego.png" alt="morcegos voando"
+    </section>
+</body>
+</html>

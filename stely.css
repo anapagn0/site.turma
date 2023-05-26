@@ -4,7 +4,7 @@
 }
 
 .cabeçalho{
-    background-image: url('nosferatu.jpg');
+    background-image: url('nosferatu.webp');
 color: white;
 display: flex;
 justify-content: space-around;
@@ -19,6 +19,27 @@ font-size: 24px;
 .imagemmorcegos{
     width: 20%;
 }
-.músicas-goticas{
+.musicas-goticas{
     background-image: linear-gradient(#940000,#000000);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divisao{
+    width: 35%;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-div{
+    text-align: center;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.bandas-todas{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
